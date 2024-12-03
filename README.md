@@ -1,2 +1,2 @@
-# mi-segundo-repositorio
-Mi segundo repositorio en GitHub para el curso de Talento Tech
+# Mi Videojuego "Disparador Espacial"
+Mi videojuego disparador espacial en GitHub para el modulo de pygame.
